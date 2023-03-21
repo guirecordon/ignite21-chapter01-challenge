@@ -1,4 +1,5 @@
 ![Image](src/assets/rocketseat.svg)
+![Image](src/assets/ignite.svg)
 
 # Rocketseat Ignite Frontend Specialization Program
 
