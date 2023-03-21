@@ -1,7 +1,8 @@
 ![Image](src/assets/rocketseat.svg)
-![Image](src/assets/ignite.svg)
 
 # Rocketseat Ignite Frontend Specialization Program
+
+![Image](src/assets/ignite.svg)
 
 This project is a challenge based on chapter I of the Ignite React Deep Dive program by Rocketseat.
 
